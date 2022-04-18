@@ -1,0 +1,2 @@
+Maximum likelihood:
+https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/maximum-likelihood.html

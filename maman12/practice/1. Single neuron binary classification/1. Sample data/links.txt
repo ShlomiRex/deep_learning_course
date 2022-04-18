@@ -1,0 +1,8 @@
+Jupiter notebook:
+https://gist.github.com/22961-Deep-learning/8a970f93ee2740d4112704d51f598ae4
+
+Generate datasets:
+https://scikit-learn.org/stable/datasets/sample_generators.html
+
+How to draw contour graph:
+https://matplotlib.org/stable/gallery/images_contours_and_fields/contour_demo.html
