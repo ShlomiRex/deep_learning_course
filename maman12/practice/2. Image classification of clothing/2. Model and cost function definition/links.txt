@@ -1,0 +1,2 @@
+Softmax regression:
+https://d2l.ai/chapter_linear-networks/softmax-regression.html
