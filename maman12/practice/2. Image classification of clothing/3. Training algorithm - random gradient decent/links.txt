@@ -1,0 +1,5 @@
+Deep learning theory - won 2018 turing prize:
+https://www.deeplearningbook.org/
+
+Stochastic Gradient Decent - Read chapter 8.1.3:
+https://www.deeplearningbook.org/contents/optimization.html
