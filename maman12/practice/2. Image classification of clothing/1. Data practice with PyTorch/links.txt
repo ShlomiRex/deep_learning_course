@@ -1,0 +1,11 @@
+FASHION MNIST Github:
+https://github.com/zalandoresearch/fashion-mnist
+
+How to import datasets using PyTorch:
+https://pytorch.org/tutorials/beginner/basics/data_tutorial.html
+
+Matplotlib plot:
+https://matplotlib.org/stable/tutorials/introductory/images.html
+
+Matplotlib axes:
+https://matplotlib.org/stable/api/axes_api.html
