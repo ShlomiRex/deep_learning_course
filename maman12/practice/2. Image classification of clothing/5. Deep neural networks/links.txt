@@ -1,0 +1,2 @@
+Read 4.1:
+https://d2l.ai/chapter_multilayer-perceptrons/mlp.html
