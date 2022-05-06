@@ -1,0 +1,1 @@
+Chapter 11.4 at Deep into Deep learning: http://d2l.ai/chapter_optimization/sgd.html

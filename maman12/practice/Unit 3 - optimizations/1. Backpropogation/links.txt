@@ -2,3 +2,7 @@ YouTube video:
 
 1. https://www.youtube.com/watch?v=Ilg3gGewQ5U
 2. https://www.youtube.com/watch?v=tIeHLnjs5U8
+
+
+Read chapter 6.5 (page 200): https://www.deeplearningbook.org/contents/mlp.html
+Read chapter 5.1: http://d2l.ai/chapter_deep-learning-computation/model-construction.html
