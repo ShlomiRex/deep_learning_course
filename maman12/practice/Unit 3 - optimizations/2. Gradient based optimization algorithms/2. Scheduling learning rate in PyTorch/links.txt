@@ -1,0 +1,1 @@
+Read chapter 11.11: http://d2l.ai/chapter_optimization/lr-scheduler.html

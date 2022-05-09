@@ -1,0 +1,4 @@
+1. View the lecture from New York University at the Open University website
+
+2. Read paper: https://distill.pub/2017/momentum/
+המכיל דיון מעמיק בשאלה למה השימוש במומנטום משפר את ביצועי אלגוריתם מורד הגרדיאנט בצורה כה משמעותית

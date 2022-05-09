@@ -1,0 +1,1 @@
+PyToch algorithms documentation: https://pytorch.org/docs/stable/optim.html#algorithms
