@@ -1,0 +1,4 @@
+Use interactive visual stuff to understand the parameter initialization impact on optimization process: https://www.deeplearning.ai/ai-notes/initialization/
+
+Read chapter 4.8: https://d2l.ai/chapter_multilayer-perceptrons/numerical-stability-and-init.html#sec-numerical-stability
+העוסק בבעיות היציבות הנומרית המובנות בתהליך אימון רשת נוירונים, ובפתרונן בעזרת אתחול חכם של פרמטרי המודל. 

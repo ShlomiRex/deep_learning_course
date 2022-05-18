@@ -1,0 +1,5 @@
+Batch normalization - Read chapter 7.5: http://d2l.ai/chapter_convolutional-modern/batch-norm.html
+
+Batch normalization paper - Video explanation - View YouTube video: https://www.youtube.com/watch?v=OioFONrSETc
+
+PyTorch documentation - All batch normalization layers available: https://pytorch.org/docs/stable/nn.html#normalization-layers
