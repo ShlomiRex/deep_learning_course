@@ -1,0 +1,3 @@
+Read chapter 4.4: http://d2l.ai/chapter_multilayer-perceptrons/underfit-overfit.html
+
+Read chapter 4.9 - distribution shift: https://d2l.ai/chapter_multilayer-perceptrons/environment.html

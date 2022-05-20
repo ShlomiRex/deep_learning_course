@@ -1,0 +1,1 @@
+Read chapter 4.6: 1http://d2l.ai/chapter_multilayer-perceptrons/dropout.html
