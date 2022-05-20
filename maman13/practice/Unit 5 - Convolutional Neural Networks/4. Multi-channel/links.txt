@@ -1,0 +1,1 @@
+Read chapter 6.4 about multi channels: http://d2l.ai/chapter_convolutional-neural-networks/channels.html

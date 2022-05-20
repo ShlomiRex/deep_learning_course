@@ -1,0 +1,3 @@
+Read chapter 6.3 about padding and stride: http://d2l.ai/chapter_convolutional-neural-networks/padding-and-strides.html
+
+Read chapter 6.5 about pooling: http://d2l.ai/chapter_convolutional-neural-networks/pooling.html

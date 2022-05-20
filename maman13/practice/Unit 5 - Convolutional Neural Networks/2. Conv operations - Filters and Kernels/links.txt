@@ -1,0 +1,3 @@
+Read about image kernels: https://setosa.io/ev/image-kernels/
+
+Read chapter 6.1 about FC to Conv layers: http://d2l.ai/chapter_convolutional-neural-networks/why-conv.html

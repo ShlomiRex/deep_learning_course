@@ -1,0 +1,1 @@
+Read chapter 6.2 about Conv for Images: http://d2l.ai/chapter_convolutional-neural-networks/conv-layer.html
