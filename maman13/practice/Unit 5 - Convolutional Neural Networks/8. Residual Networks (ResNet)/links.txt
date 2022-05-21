@@ -1,0 +1,3 @@
+Read chapter 7.6 about ResNet: https://d2l.ai/chapter_convolutional-modern/resnet.html
+
+Video about the ResNet paper - retroactive presentation: https://www.youtube.com/watch?v=GWt6Fu05voI

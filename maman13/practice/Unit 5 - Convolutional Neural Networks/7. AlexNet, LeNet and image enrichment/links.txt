@@ -1,0 +1,7 @@
+LeNet 1998 paper: http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
+
+Image-net challenge/competition and ImageNet dataset: https://image-net.org/challenges/LSVRC/2012/index.php
+
+Retrospective review of AlexNet article: https://www.youtube.com/watch?v=Nq3auVtvd9Q
+
+PyTorch doc: Transforms examples: https://pytorch.org/vision/master/auto_examples/plot_transforms.html#sphx-glr-auto-examples-plot-transforms-py
