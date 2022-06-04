@@ -1,0 +1,6 @@
+Use 'datasets' (created by Hugging Face0 python module to use deep learning models as a black box: https://huggingface.co/docs/datasets/index
+
+Read about GLUE project to see diffirent kinds of deep learning tests (semantics, predictions, etc.): https://gluebenchmark.com/
+
+Read about GloVe project: https://nlp.stanford.edu/projects/glove/
+וקראו לעומק על שיכונים מאומנים מראש הזמינים להורדה, על תהליך האימון ותובנות מעניינות לגבי קשרים סמנטיים בין מילים שונות, כפי שהם באים לידי ביטוי בשיכונים עצמם.
