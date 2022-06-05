@@ -1,0 +1,3 @@
+2013 paper about backpropogation through time: https://arxiv.org/pdf/1211.5063.pdf
+
+LSTM architecture blog: https://colah.github.io/posts/2015-08-Understanding-LSTMs/
