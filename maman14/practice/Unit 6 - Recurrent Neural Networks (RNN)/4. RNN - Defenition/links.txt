@@ -1,0 +1,1 @@
+PyTorch docs on RNN layer input,output architecture: https://pytorch.org/docs/stable/generated/torch.nn.RNN.html
