@@ -1,0 +1,5 @@
+Paper about researching generative modeling that are based on neural networks: https://arxiv.org/pdf/2103.05180.pdf
+
+Github repo - examples given in the paper: https://github.com/EmoryMLIP/DeepGenerativeModelingIntro
+
+Notice the usage of 'nn.ConvTranspose2d' in github and in the paper
