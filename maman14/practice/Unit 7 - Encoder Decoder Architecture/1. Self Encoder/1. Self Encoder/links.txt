@@ -1,1 +1,0 @@
-Self encoders: https://www.deeplearningbook.org/contents/autoencoders.html
