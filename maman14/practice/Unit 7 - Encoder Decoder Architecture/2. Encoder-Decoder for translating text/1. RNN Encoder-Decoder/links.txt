@@ -1,0 +1,6 @@
+Read a blog about machine translation: https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+
+Take a look at this project: https://tatoeba.org/en/
+
+Read this paper: https://arxiv.org/pdf/1409.3215.pdf
+הוא הראשון בו החוקרים השתמשו ברשת נשנית בתצורת מקודד-מפרש למטרת תרגום מכונה והגיעו לביצועים העולים על פני שיטות קלאסיות לפתרון הבעיה

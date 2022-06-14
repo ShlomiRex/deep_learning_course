@@ -1,0 +1,4 @@
+Read chapter 10.1-10.4 about Attention Mechanics: https://d2l.ai/chapter_attention-mechanisms/index.html
+
+Read the paper: https://arxiv.org/pdf/1409.0473.pdf
+This is the first paper using attention layers, spesifically page 6 of the paper.
