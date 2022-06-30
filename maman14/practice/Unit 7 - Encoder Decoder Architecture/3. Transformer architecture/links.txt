@@ -1,0 +1,20 @@
+YouTube video explaining the transform architecture:
+https://www.youtube.com/watch?v=FWFA4DGuzSc
+
+Read a blog about the transform architecture:
+https://jalammar.github.io/illustrated-transformer/
+
+Additional resources:
+
+Read another blog about the transformer architecture:
+http://peterbloem.nl/blog/transformers
+This blog explains the architecutre using simple code examples in PyTorch
+
+Yannick Kilcher's YouTube channel has a detailed review of the article in which this architecture was first published:
+https://www.youtube.com/watch?v=iDulhoQ2pro
+
+A team of researchers from Stanford University wrote Jupiter notebook which features a full implementation of Transformer, attached to the relevant sections of the original article. This is the best source to understand this architecture in all its details:
+http://nlp.seas.harvard.edu/annotated-transformer/
+
+And the original paper 'Attention Is All You Need' about the Transformer (is one of the most cited articles in the field of deep learning):
+https://arxiv.org/pdf/1706.03762.pdf
